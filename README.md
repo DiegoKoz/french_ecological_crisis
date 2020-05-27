@@ -7,7 +7,7 @@ It is composed of around 13k tweets  posted before (24h before), during (48h) an
 
 The distribution of the tweets in the dataset is as follows: 
 
-![](doc/table.png){width=500px}
+<img src="doc/table.png" width="500" />
 
 ## Repository structure
 
@@ -58,7 +58,7 @@ keywords = "Crisis response from social media, Machine learning, Natural languag
 
 ### Licence
 
-![](doc/1000px-CC-BY-NC-SA.png){width=100px}
+<img src="doc/1000px-CC-BY-NC-SA.png" width="100" />
 
 This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/). 
 
