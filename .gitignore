@@ -38,3 +38,5 @@ vignettes/*.pdf
 
 # R Environment Variables
 .Renviron
+
+data/tagged_tweets_text.csv
