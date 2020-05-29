@@ -65,6 +65,6 @@ This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareA
 ### Contact information
 If you have any question or suggestion, do not hesitate to contact us at the following addresses:
 - Farah Benamara ([farah DOT benamara AT irit DOT fr](mailto:farah.benamara@irit.fr))
-- Alda Mari (alda.mari AT ens DOT fr)
+- Alda Mari (alda DOT mari AT ens DOT fr)
 
 
