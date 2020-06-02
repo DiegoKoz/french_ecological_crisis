@@ -1,6 +1,6 @@
 ## Dataset description
 
-This repository contains the first crisis-related dataset for French, developed at IRIT-Toulouse University and IJN-CNRS/ENS/EHESS/PSL. The dataset is about 13 ecological crises that occured in metropolitan France and its overseas departments targeting the most discussed crises in the French media from 2016 to 2019: two floods that occured in the Aude and Corsica regions, ten storms (Béryl, Berguitta, Fionn, Eleanor, Bruno, Egon, Ulrika, Susanna, Fakir and Ana), two hurricanes (Irma and Harvey) 
+This repository contains the first crisis-related dataset for French, developed at IRIT-Toulouse University and IJN-CNRS/ENS/EHESS/PSL. The dataset is about 13 ecological crises that occured in metropolitan France and its overseas departments targeting the most discussed crises in the French media from 2016 to 2019: two floods that occured in the Aude and Corsica regions, ten storms (Béryl, Berguitta, Fionn, Eleanor, Bruno, Egon, Ulrika, Susanna, Fakir and Ana) and two hurricanes (Irma and Harvey).
 
 It is composed of around 13k tweets  posted before (24h before), during (48h) and after the crisis (72h after). Each message has been annotated according to three dimensions: relatedness (useful vs. non useful), urgency (non useful vs. urgent vs. non urgent), and intentions to act (6 categories among: human/material damages, warnings/advices, critics, etc.).
 
