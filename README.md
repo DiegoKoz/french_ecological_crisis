@@ -67,4 +67,6 @@ If you have any question or suggestion, do not hesitate to contact us at the fol
 - Farah Benamara ([farah DOT benamara AT irit DOT fr](mailto:farah.benamara@irit.fr))
 - Alda Mari ([alda DOT mari AT ens DOT fr](mailto:alda.mari@ens.fr))
 
-
+### Aknowledgement
+This work has been supported by the Chemi-INTACT project funded by French Ministère de l’Intérieur (Department
+of Home Affairs) that involved the Institut de Recherche en Informatique de Toulouse (IRIT) and Institut Jean Nicod (IJN).
